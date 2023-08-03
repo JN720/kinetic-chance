@@ -1,4 +1,4 @@
-# kinetic-chance
+# Background
 
 After the original digital version in Python, which I developed back in my first year of high school, I decided to revisit the project 
 around the beginning of my senior year and created the flagship CLI version in C++. As I progressed into my first year of university and began working
